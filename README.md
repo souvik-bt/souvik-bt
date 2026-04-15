@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/souvik-bt/souvik-bt/blob/main/github_banner.gif" />
+  <img src="https://github.com/souvik-bt/souvik-bt/blob/main/trans_banner.png" />
 </p>
 
 <h2 align="left">About me :</h2>
