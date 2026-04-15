@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">🛠️ I'm currently working on  <br>Building full-stack systems with APIs, backend logic, and structured data flow, including a platform focused on real-world workflows  <br><br>🌱 I'm currently learning  <br>How to design better systems — improving scalability, performance, and real-world usability  <br><br>💬 Ask me about  <br>MERN stack, API design, data handling, and analytics with Python and SQL  <br><br>⚡ Fun fact  <br>I enjoy editing with DaVinci Resolve, along with gaming and gym</p>
+<p align="left">
+  🛠️ I'm currently working on  <br>Building full-stack systems with APIs, backend logic, and structured data flow, including a platform focused on real-world workflows  
+  <br><br>🌱 I'm currently learning  <br>How to design better systems, improving scalability, performance, and real-world usability  
+  <br><br>💬 Ask me about  <br>MERN stack, API design, data handling, and analytics with Python and SQL
+  <img align="right" src="https://github.com/souvik-bt/souvik-bt/blob/main/HomeGiphy.gif" width="130"/>
+  <br><br>⚡ Fun fact  <br>I enjoy editing with DaVinci Resolve, along with gaming and gym </p>
 
 ###
 
